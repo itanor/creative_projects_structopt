@@ -1,0 +1,1 @@
+set -x RUST_LOG debug; ./target/debug/use_structopt input1.txt input2.txt -v --result res.xyz
